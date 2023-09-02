@@ -14,4 +14,6 @@ Print the number and the employee's salary, according to the given example,
 with a blank space before and after the equal signal.
 */
 
-
+void main(List<String> args) {
+  print('Al mosrof mia');
+}
