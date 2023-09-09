@@ -1,6 +1,8 @@
 void main(List<String> args) {
-  dynamic F_name = "Al Mosrof";
-  dynamic L_name = " Mia";
-  var name = F_name + L_name;
-  print(name);
+  var map = new Map();
+  map["name:"]= "Al Mosrof Mia";
+  map["Age:"]= '24';
+
+  print(map["name:"]);
+    
 }
