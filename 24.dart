@@ -1,4 +1,7 @@
 void main(List<String> args) {
-  final num1 = 30;
-  print(num1);
+  var map = new Map();
+  map["shinul"]="age";
+  map['111']= "dob";
+  "weight";
+  print(map.values);
 }
