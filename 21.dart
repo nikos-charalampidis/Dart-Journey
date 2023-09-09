@@ -1,3 +1,9 @@
 void main(List<String> args) {
-  print("I love coding");
+  var Mymap = {
+ "name": "Shinul"
+
+  };
+  Mymap["Dept"]="SWE";
+
+  print(Mymap);
 }
