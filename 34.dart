@@ -6,7 +6,6 @@ void main(List<String> args) {
   hashmap["Float:"]= 10.6;
   hashmap["Bol:"]= "True";
   hashmap["String:"]= "Shinul";
-
   var myvalue;
   for(myvalue in hashmap.keys){
     print(hashmap);
