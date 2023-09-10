@@ -10,5 +10,19 @@
 // }
 
 
+void main(List<String> args) {
+ var mylist = <int>[];
 
+  mylist.add(100);
+  mylist.add(500);
+  mylist.add(500);
+  mylist.add(9090);
+
+  var myvalue;
+  for (myvalue in mylist)
+  {
+     print(myvalue);
+  }
+
+}
 
