@@ -1,8 +1,8 @@
 import 'dart:io';
 
 void main(List<String> args) {
-  var Myobject = Myclass();
-  Myobject.addTwo();
+  var Object = Myclass();
+  Object.addTwo();
 }
 
 class Myclass{
