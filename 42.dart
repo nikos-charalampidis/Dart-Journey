@@ -1,5 +1,10 @@
+
+
 void main(List<String> args) {
+  
+  // ignore: unused_local_variable
   var obj = new Shinul();
+  obj.age;
 }
 
 class Shinul{
@@ -10,11 +15,6 @@ var learning = "Flutter";
 
 void Al(){
   print(this.age);
-
-  void Mosrof(){
-    this.Al();
-  }
-
 }
 
 }
